@@ -29,8 +29,8 @@ html{
 .cardcontainer{
     margin:10px;
     position:relative;
-    width:312px;
-    height:192px;
+    max-width:312px;
+    max-height:192px;
 }
 
 
